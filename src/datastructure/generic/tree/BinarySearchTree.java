@@ -1,4 +1,4 @@
-package datastructure.genericbinarysearchtree;
+package datastructure.generic.tree;
 
 public class BinarySearchTree<T extends Comparable<T>> {
     private class Node<T1> {

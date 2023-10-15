@@ -1,4 +1,4 @@
-package datastructure.genericlinkedlist;
+package datastructure.generic.linkedlist;
 
 public class LinkedList<T> {
     private class Node<T1> {

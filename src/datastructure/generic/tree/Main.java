@@ -1,4 +1,4 @@
-package datastructure.genericbinarysearchtree;
+package datastructure.generic.tree;
 
 import java.util.Random;
 
